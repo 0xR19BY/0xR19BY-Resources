@@ -1,8 +1,9 @@
+# 0xR19BY-Resources
 Very cool resources that I like. 
 ## Programming Languages - 
 ### Rust:
 
-- [Rust Language Cheat Sheet](https://cheats.rs/#language-sugar)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 - [The Book of Rust](https://doc.rust-lang.org/book/)
 ### Python:
 - [Python Language Cheat Sheet](https://www.pythoncheatsheet.org/)
