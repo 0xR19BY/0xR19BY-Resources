@@ -8,6 +8,12 @@ Very cool resources that I like.
 ### Python:
 - [Python Language Cheat Sheet](https://www.pythoncheatsheet.org/)
 ## Cyber Security - 
+### General CyberSec:
+ - [HiJack Libs](https://hijacklibs.net/)
+ - [LOTS Project](https://lots-project.com/)
+ - [GTFOBins](https://gtfobins.github.io/)
+ - [LOLBAS](https://lolbas-project.github.io/#)
+ - [LOLAPPS](https://lolapps-project.github.io/)
 ### Blue Team:
 - [EVID Wiki](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 - [RedCanary Threat Detection Report](https://redcanary.com/threat-detection-report/)
