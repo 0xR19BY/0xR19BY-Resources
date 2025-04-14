@@ -14,6 +14,7 @@ Very cool resources that I like.
  - [GTFOBins](https://gtfobins.github.io/)
  - [LOLBAS](https://lolbas-project.github.io/#)
  - [LOLAPPS](https://lolapps-project.github.io/)
+ - [Certificate Search](crt.sh)
 ### Blue Team:
 - [EVID Wiki](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 - [RedCanary Threat Detection Report](https://redcanary.com/threat-detection-report/)
@@ -22,6 +23,7 @@ Very cool resources that I like.
 - [xml2evtx](https://github.com/JPCERTCC/xml2evtx)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [gulp](https://github.com/mentat-is/gulp)
+- [FCrDNS & DNSBL Lookup Aggregation](https://multirbl.valli.org/)
 ### Red Team:
 - [HackTricks](https://book.hacktricks.xyz/)
 - [Red Team Notes](https://www.ired.team/)
